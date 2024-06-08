@@ -11,7 +11,7 @@ Software engineering differs from tradional programming in the sense that tradio
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. Agile vs. Waterfall Models:
 
-Planning - This is the first stage where the developer writes down the objectives of the projects and ideas for the project.
+Planning - This is the first stage where the developer writes down the objectives of the projects and ideas for the project. // 
 Design - This is the phase where the developers produce flowcharts of the program to be written and also pseudocode for the program to be written. 
 Development - This is where actual code is written based on the designed flowcharts and pseudocode using the appropriate coding language.
 Testing - The written program is tested to make sure it works properly with no bugs or faults.
